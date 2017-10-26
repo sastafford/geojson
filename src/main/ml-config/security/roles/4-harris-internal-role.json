@@ -1,0 +1,5 @@
+{
+  "role-name" : "harris-internal",
+  "description" : "Internal role used for amping",
+  "role" : [ "harris-writer" ]
+}

@@ -1,0 +1,1 @@
+mlcp.sh IMPORT -host oscar -port 8200 -username admin -password admin -input_file_path ../data/sample-1 -output_uri_replace "^.*data,''"
