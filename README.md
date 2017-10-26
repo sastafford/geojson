@@ -1,4 +1,4 @@
-# Harris Team Playground
+# Getting Started
 
 ## Prerequisites
 
